@@ -2,3 +2,17 @@
 
 ![Задание 1](https://github.com/VVV-Devastator/Attestation/blob/main/im.jpg)
 
+![Задание 1](https://github.com/VVV-Devastator/Attestation/blob/main/im1.jpg)
+
+2. Создать директорию, переместить файл туда.
+
+
+![Задание 1](https://github.com/VVV-Devastator/Attestation/blob/main/im2.jpg)
+
+
+3. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
+4. Установить и удалить deb-пакет с помощью dpkg.
+5. Выложитьисториюкомандвтерминалеubuntu
+
+![Задание 1](https://github.com/VVV-Devastator/Attestation/blob/main/im3.jpg)
+
