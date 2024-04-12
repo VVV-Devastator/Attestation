@@ -7,12 +7,21 @@
 2. Создать директорию, переместить файл туда.
 
 
-![Задание 1](https://github.com/VVV-Devastator/Attestation/blob/main/im2.jpg)
+![Задание 2](https://github.com/VVV-Devastator/Attestation/blob/main/im2.jpg)
 
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
 4. Установить и удалить deb-пакет с помощью dpkg.
 5. Выложитьисториюкомандвтерминалеubuntu
 
-![Задание 1](https://github.com/VVV-Devastator/Attestation/blob/main/im3.jpg)
+![Задание 3](https://github.com/VVV-Devastator/Attestation/blob/main/im3.jpg)
 
+
+
+6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
+животные и вьючные животные, в составы которых в случае домашних
+животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
+войдут: Лошади, верблюды и ослы).
+
+
+![Задание 6](https://github.com/VVV-Devastator/Attestation/blob/main/im4.jpg)
